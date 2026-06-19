@@ -169,24 +169,24 @@ ABC Bank built this dashboard to directly address these gaps:
 ## Specific Business Outcomes from Analytics
 
 ### Before Dashboard
-- ❌ Target-setting was guesswork (consistently missed by £34.71M)
-- ❌ Regional performance opaque (couldn't explain why North America underperforming)
-- ❌ Customer profitability unknown (top 10 customers might include low-margin accounts)
-- ❌ Channel ROI invisible (spending equally on underperforming channels)
-- ❌ Growth trajectory unclear (didn't understand if 6% decline was normal or alarming)
-- ❌ Cost control weak (Professional Services at 60% cost ratio, no optimization)
-- ❌ Market expansion decisions made by politics, not data
-- ❌ Board presentations used anecdotes, not facts
+-  Target-setting was guesswork (consistently missed by £34.71M)
+-  Regional performance opaque (couldn't explain why North America underperforming)
+-  Customer profitability unknown (top 10 customers might include low-margin accounts)
+-  Channel ROI invisible (spending equally on underperforming channels)
+-  Growth trajectory unclear (didn't understand if 6% decline was normal or alarming)
+-  Cost control weak (Professional Services at 60% cost ratio, no optimization)
+-  Market expansion decisions made by politics, not data
+-  Board presentations used anecdotes, not facts
 
 ### After Dashboard
-- ✅ **Data-Driven Target Setting:** 2025 targets now based on forecast model (£249.28M → £280M-£300M projected, targets set more realistically)
-- ✅ **Regional Accountability:** North America exec now has clear £12M gap to explain
-- ✅ **Customer Strategy:** Top 10 customers clearly identified; relationship management prioritized
-- ✅ **Channel Optimization:** Direct Sales (12%) vs. Partner (34.73%) ROI now comparable
-- ✅ **Growth Understanding:** Leadership explains 2022-2024 arc is natural maturation, projects 2025 growth at 15-20% (realistic)
-- ✅ **Cost Management:** Professional Services cost ratio targeted for reduction; initiatives identified
-- ✅ **Market Expansion:** Asia Pacific identified as growth opportunity; geographic diversification strategy underway
-- ✅ **Board Confidence:** Quarterly board presentations now use comprehensive analytics, not estimates
+- **Data-Driven Target Setting:** 2025 targets now based on forecast model (£249.28M → £280M-£300M projected, targets set more realistically)
+-  **Regional Accountability:** North America exec now has clear £12M gap to explain
+-  **Customer Strategy:** Top 10 customers clearly identified; relationship management prioritized
+-  **Channel Optimization:** Direct Sales (12%) vs. Partner (34.73%) ROI now comparable
+- **Growth Understanding:** Leadership explains 2022-2024 arc is natural maturation, projects 2025 growth at 15-20% (realistic)
+- **Cost Management:** Professional Services cost ratio targeted for reduction; initiatives identified
+- **Market Expansion:** Asia Pacific identified as growth opportunity; geographic diversification strategy underway
+- **Board Confidence:** Quarterly board presentations now use comprehensive analytics, not estimates
 
 ---
 
@@ -294,11 +294,11 @@ ABC Bank's executive team needed this dashboard because:
 This 6-page dashboard transformed ABC Bank from a growth-at-all-costs organization to a **data-driven, profitable, strategically focused enterprise.**
 
 The insights enabled decisions that:
-- ✅ Made 2025 targets realistic and achievable
-- ✅ Identified £48M+ of optimization opportunity
-- ✅ Enabled geographic expansion strategy
-- ✅ Improved profitability by understanding cost structures
-- ✅ Restored board and investor confidence
+-  Made 2025 targets realistic and achievable
+-  Identified £48M+ of optimization opportunity
+-  Enabled geographic expansion strategy
+- Improved profitability by understanding cost structures
+- Restored board and investor confidence
 
 ---
 
