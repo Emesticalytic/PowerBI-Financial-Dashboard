@@ -71,14 +71,6 @@ Revenue forecasting and growth projection analysis:
 
 ---
 
-## Technical Architecture
-
-### Data Model
-- **Fact Tables:** FactResellerSales, FactInternetSales
-- **Dimension Tables:** DimProduct, DimCustomer, DimDate, DimGeography, DimSalesTerritory
-- **Relationships:** Star schema with optimized cardinality
-- **Data Types:** Properly typed for DAX performance
-
 ### Key Measures (DAX)
 See [measures.md](documentation/measures.md) for complete DAX documentation, including:
 - Total Sales
@@ -105,13 +97,6 @@ Data preparation and transformation logic documented in [power-query.txt](querie
 3. Open in Power BI Desktop
 4. Update data source connections if needed (currently configured for AdventureWorks SQL Server)
 5. Refresh data and explore
-
-### Option 2: Review Documentation Only
-All technical specifications, DAX logic, and design decisions are documented in the `/documentation` folder. Start with:
-- [Data Model Overview](documentation/data-model.md)
-- [Measures & Calculations](documentation/measures.md)
-- [Design Decisions](documentation/design-decisions.md)
-
 ---
 
 ## Project Highlights
