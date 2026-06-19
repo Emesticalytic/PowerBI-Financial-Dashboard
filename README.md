@@ -1,12 +1,12 @@
 # ABC Bank Global Financial Dashboard
 
-A sophisticated enterprise-grade Power BI financial analytics dashboard built on the AdventureWorks dataset. This multi-page intelligence platform demonstrates advanced data modeling, DAX optimization, AI-powered insights, and professional financial visualization for global business performance monitoring.
+A sophisticated enterprise-grade Power BI financial analytics dashboard built. This multi-page intelligence platform demonstrates advanced data modeling, DAX optimisation, AI-powered insights, and professional financial visualization for global business performance monitoring.
 
 ## Overview
 
 The ABC Bank Global Financial Dashboard provides comprehensive visibility into financial metrics, market intelligence, and AI-driven insights across six interactive pages. Built with enterprise color themes and professional design patterns, this dashboard serves as a strategic hub for executive decision-making, sales performance tracking, and global market analysis.
 
-**Dataset:** AdventureWorks (Multi-table relational structure)  
+**Dataset:**   
 **Tools:** Power BI Desktop | DAX | Power Query M  
 **Theme:** Multi-page design with region-specific color palettes  
 **Status:** Production Ready (All 6 Pages Complete)
@@ -116,14 +116,14 @@ All technical specifications, DAX logic, and design decisions are documented in 
 
 ## Project Highlights
 
-✅ **Multi-Page Enterprise Dashboard** — 6 fully-featured pages with distinct analytical purposes  
-✅ **Advanced DAX Measures** — YTD calculations, YoY comparisons, running totals, variance analysis  
-✅ **AI-Powered Insights** — Correlation analysis, key influencer identification, what-if scenarios  
-✅ **Geographic Intelligence** — Interactive world map with revenue distribution and market tier analysis  
-✅ **Predictive Analytics** — Time-series forecasting with confidence intervals and growth projections  
-✅ **Professional Design** — Multi-theme color palettes, responsive layouts, executive-grade visuals  
-✅ **Interactive Drill-down** — Hierarchical navigation (Category → Region → Country → Channel → Segment)  
-✅ **Comprehensive Documentation** — Technical specifications, design decisions, and operational guidelines  
+ **Multi-Page Enterprise Dashboard** — 6 fully-featured pages with distinct analytical purposes  
+ **Advanced DAX Measures** — YTD calculations, YoY comparisons, running totals, variance analysis  
+ **AI-Powered Insights** — Correlation analysis, key influencer identification, what-if scenarios  
+ **Geographic Intelligence** — Interactive world map with revenue distribution and market tier analysis  
+ **Predictive Analytics** — Time-series forecasting with confidence intervals and growth projections  
+ **Professional Design** — Multi-theme color palettes, responsive layouts, executive-grade visuals  
+**Interactive Drill-down** — Hierarchical navigation (Category → Region → Country → Channel → Segment)  
+**Comprehensive Documentation** — Technical specifications, design decisions, and operational guidelines  
 
 ---
 
@@ -146,15 +146,6 @@ PowerBI-Financial-Dashboard/
 │   └── page3-territory-analysis.png
 └── .gitignore
 ```
-
----
-
-## Data Refresh & Maintenance
-
-- **Refresh Frequency:** [Specify your schedule - e.g., Daily at 6 AM EST]
-- **Data Source:** AdventureWorks SQL Server database
-- **Last Refresh:** [Update as needed]
-- **Known Limitations:** [Document any constraints or data gaps]
 
 ---
 
@@ -203,17 +194,43 @@ This project demonstrates:
 4. **Design Discipline** — Professional aesthetics, consistent formatting, and user-centric layout
 5. **Documentation Standards** — Clear technical specifications suitable for enterprise hand-off
 
----
+-Fictional Company & Anonymized Data
 
-## License
+ABC Bank is a fictional company created for portfolio and educational demonstration purposes.
 
-[MIT License / Other - specify your preference]
+This dashboard and all associated documentation do not represent any real, existing organization, company, or financial institution.
 
+Data Anonymization
+
+
+All company names, customer names, and financial figures are anonymized and fictitious
+Any resemblance to real companies, organizations, or actual financial data is purely coincidental
+The data model, metrics, and scenarios are created for demonstration purposes only
+
+
+Portfolio Purpose
+
+This project is created to showcase:
+
+
+Advanced Power BI skills
+Data modeling expertise
+DAX calculation capabilities
+Business analytics thinking
+Professional documentation standards
+
+
+Usage Rights
+
+This documentation and dashboard design are provided as a portfolio example and may be used as reference material for learning purposes.
+
+
+Project Status: Portfolio Demonstration | Data: Anonymized/Fictional | Date: June 2026
 ## Contact
 
-For questions or collaboration, reach out via [GitHub Profile](https://github.com/Emesticalytic) or [Your Portfolio Site]
+For questions or collaboration, reach out via [GitHub Profile](https://github.com/Emesticalytic) or [emem-akpan-analytics.netlify.app]
 
 ---
 
-**Last Updated:** [Date]  
+**Last Updated:** June 2026]  
 **Status:** In Active Development
